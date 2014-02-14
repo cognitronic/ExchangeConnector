@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeConnect.Core", "ExchangeConnect.Core\ExchangeConnect.Core.csproj", "{CE4FA5A0-D1F8-4089-B2D6-D9BFF323920E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsoleApp", "TestConsoleApp\TestConsoleApp.csproj", "{5796675B-2B50-4182-9106-5C23CD9A3FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE4FA5A0-D1F8-4089-B2D6-D9BFF323920E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE4FA5A0-D1F8-4089-B2D6-D9BFF323920E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE4FA5A0-D1F8-4089-B2D6-D9BFF323920E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE4FA5A0-D1F8-4089-B2D6-D9BFF323920E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5796675B-2B50-4182-9106-5C23CD9A3FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5796675B-2B50-4182-9106-5C23CD9A3FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5796675B-2B50-4182-9106-5C23CD9A3FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5796675B-2B50-4182-9106-5C23CD9A3FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect
+END
+CopyFolderResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/CopyFolderResponseType.datasource
+END
+SyncFolderHierarchyResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/SyncFolderHierarchyResponseType.datasource
+END
+SendItemResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/SendItemResponseType.datasource
+END
+SyncFolderItemsResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/SyncFolderItemsResponseType.datasource
+END
+CreateAttachmentResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/CreateAttachmentResponseType.datasource
+END
+FindFolderResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/FindFolderResponseType.datasource
+END
+SetUserOofSettingsResponse.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/SetUserOofSettingsResponse.datasource
+END
+UpdateFolderResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/UpdateFolderResponseType.datasource
+END
+GetDelegateResponseMessageType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/GetDelegateResponseMessageType.datasource
+END
+SubscribeResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/SubscribeResponseType.datasource
+END
+DeleteItemResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/DeleteItemResponseType.datasource
+END
+services.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/services.wsdl
+END
+UpdateDelegateResponseMessageType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/UpdateDelegateResponseMessageType.datasource
+END
+UnsubscribeResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/UnsubscribeResponseType.datasource
+END
+types.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/types.xsd
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/Reference.cs
+END
+AddDelegateResponseMessageType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/AddDelegateResponseMessageType.datasource
+END
+RemoveDelegateResponseMessageType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/RemoveDelegateResponseMessageType.datasource
+END
+GetItemResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/GetItemResponseType.datasource
+END
+DeleteFolderResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/DeleteFolderResponseType.datasource
+END
+Reference.map
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/Reference.map
+END
+GetUserAvailabilityResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/GetUserAvailabilityResponseType.datasource
+END
+GetFolderResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/GetFolderResponseType.datasource
+END
+DeleteAttachmentResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/DeleteAttachmentResponseType.datasource
+END
+CreateManagedFolderResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/CreateManagedFolderResponseType.datasource
+END
+CreateItemResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/CreateItemResponseType.datasource
+END
+MoveItemResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/MoveItemResponseType.datasource
+END
+GetAttachmentResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/GetAttachmentResponseType.datasource
+END
+CopyItemResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/CopyItemResponseType.datasource
+END
+messages.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/messages.xsd
+END
+ConvertIdResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/ConvertIdResponseType.datasource
+END
+CreateFolderResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/CreateFolderResponseType.datasource
+END
+ExpandDLResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/ExpandDLResponseType.datasource
+END
+FindItemResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/FindItemResponseType.datasource
+END
+GetUserOofSettingsResponse.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/GetUserOofSettingsResponse.datasource
+END
+UpdateItemResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/UpdateItemResponseType.datasource
+END
+MoveFolderResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/MoveFolderResponseType.datasource
+END
+ResolveNamesResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/ResolveNamesResponseType.datasource
+END
+GetEventsResponseType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/IdeaSeed/!svn/ver/11/trunk/ExchangeConnect/ExchangeConnect.Core/ExchangeConnect.Core/Web%20References/ExchangeConnect/GetEventsResponseType.datasource
+END

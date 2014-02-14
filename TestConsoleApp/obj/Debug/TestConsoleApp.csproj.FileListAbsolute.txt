@@ -1,0 +1,11 @@
+D:\Projects\ExchangeConnect\ExchangeConnect.Core\TestConsoleApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\ExchangeConnect\ExchangeConnect.Core\TestConsoleApp\bin\Debug\TestConsoleApp.exe
+D:\Projects\ExchangeConnect\ExchangeConnect.Core\TestConsoleApp\bin\Debug\TestConsoleApp.pdb
+D:\Projects\ExchangeConnect\ExchangeConnect.Core\TestConsoleApp\bin\Debug\Microsoft.Exchange.WebServices.dll
+D:\Projects\ExchangeConnect\ExchangeConnect.Core\TestConsoleApp\bin\Debug\Microsoft.Exchange.WebServices.xml
+D:\Projects\ExchangeConnect\ExchangeConnect.Core\TestConsoleApp\obj\Debug\TestConsoleApp.exe
+D:\Projects\ExchangeConnect\ExchangeConnect.Core\TestConsoleApp\obj\Debug\TestConsoleApp.pdb
+D:\Projects\ExchangeConnect\ExchangeConnect.Core\TestConsoleApp\bin\Debug\ExchangeConnect.Core.dll
+D:\Projects\ExchangeConnect\ExchangeConnect.Core\TestConsoleApp\bin\Debug\ExchangeConnect.Core.pdb
+C:\Projects\ExchangeConnect\ExchangeConnect.Core\TestConsoleApp\obj\Debug\TestConsoleApp.exe
+C:\Projects\ExchangeConnect\ExchangeConnect.Core\TestConsoleApp\obj\Debug\TestConsoleApp.pdb
